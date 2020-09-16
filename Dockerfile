@@ -27,6 +27,8 @@ RUN set -ex; \
         g++ \
         ssh \
 	chromium-browser \
+	default-jre \
+	openjdk-8-jdk \
         terminator \
         htop \
         gnupg2 \
